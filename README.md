@@ -46,3 +46,5 @@ out of the box.
 Just Add New... > Project, import the Git repository, and off you go.
 Note that Vercel's Hobby plan means your private repository needs to be
 in your personal GitHub account, not the organizational account.
+
+dilzafer-hw2-git-bugfix-dilzafers-projects.vercel.app
